@@ -1,0 +1,10 @@
+file1 10K
+file2 5M
+file3 2G
+file4 3T
+file5 7M
+file6 4G
+file7 500K
+file8 100K
+file9 1M
+file10 200G
